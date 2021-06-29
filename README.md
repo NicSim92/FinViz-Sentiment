@@ -1,4 +1,4 @@
-# HDB Price Linear Regression Analysis
+# Stock Webscrapping & Sentiment Analysis
 
 <img src="images/sentimentcover.png?raw=true" style="width:500px;"/><br>
 
