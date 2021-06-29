@@ -1,4 +1,4 @@
-# Stock Webscrapping & Sentiment Analysis
+# Stock Website Webscrapping & Sentiment Analysis
 
 <img src="images/sentimentcover.png?raw=true" style="width:500px;"/><br>
 
